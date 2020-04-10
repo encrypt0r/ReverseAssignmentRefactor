@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="ReverseAssignment..233d0a64-9df5-4a5c-a844-ddb876460870" Version="1.0" Language="en-US" Publisher="muham"/>
-        <DisplayName>ReverseAssignment</DisplayName>
+        <Identity Id="ReverseAssignment..233d0a64-9df5-4a5c-a844-ddb876460870" Version="1.0" Language="en-US" Publisher="Muhammad Azeez"/>
+        <DisplayName>Reverse Assignment</DisplayName>
         <Description xml:space="preserve">This extension allows you to reverse multiple assignments easily</Description>
         <MoreInfo>https://github.com/encrypt0r/ReverseAssignmentRefactoring</MoreInfo>
+        <GettingStartedGuide>https://raw.githubusercontent.com/encrypt0r/ReverseAssignmentRefactoring/master/README.md</GettingStartedGuide>
         <Icon>reverse-logo.png</Icon>
         <Tags>refactoring, roslyn, c#</Tags>
     </Metadata>
