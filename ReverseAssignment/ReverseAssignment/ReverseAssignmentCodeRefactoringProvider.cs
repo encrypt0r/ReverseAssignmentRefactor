@@ -104,6 +104,9 @@ namespace ReverseAssignment
 
                 case ElementAccessExpressionSyntax element:
                     return IsAssignable(element.Expression);
+
+                case MemberAccessExpressionSyntax member:
+                    return IsAssignable(member.Expression);
             }
 
             return false;
