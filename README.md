@@ -1,6 +1,8 @@
-# Reverse Assignments Refactoring
+# Reverse Assignments Refactoring ([Download](https://marketplace.visualstudio.com/items?itemName=mhmd-azeez.reverse-assignment))
+
 
 It reverses the right and left sides of one or more assignments that are selected:
+
 
 Before:
 
